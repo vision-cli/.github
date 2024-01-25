@@ -1,6 +1,6 @@
 <h1 align="center">Vision CLI</a></h1>
 <p align="center">
-  <img width="150" src="./images/vision-3d.jpg" />
+  <img width="150" src="/images/vision-3d.jpg" />
 </p>
 
 Welcome to the Vision CLI tool.
